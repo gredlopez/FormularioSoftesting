@@ -26,4 +26,5 @@ ________________________________________________________________________________
                 |                 |                     |Entonces verifica que la ortografia del formulario este correcta          |                                        |                  |se encuentre con buena   |3.observar detalladamente el for-|grafia                 |
                 |                 |                     |                                                                          |                                        |                  |ortografia               |mulario                          |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
-Se observan los botones Registrase e iniciar sesion con una mala usabilidad ya que no se alcanzan a visualizar en la pagina.             
+Se observan los botones Registrase e iniciar sesion con una mala usabilidad ya que no se alcanzan a visualizar en la pagina.        
+  Url de reporte   https://gredlopez.github.io/FormularioSoftesting/target/site/serenity/index.html
