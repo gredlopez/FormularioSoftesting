@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Diligenciar formulario exitosamente" skipped="0" tests="5" time="81.24" timestamp="2022-10-06 02:22:33"><testcase name="diligenciar el campo tu nombre del formulario softesting"/><testcase name="diligenciar el campo Email del formulario softesting"><failure message="&#13;&#10;Expected: &lt;true&gt;&#13;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">&#13;
+Expected: &lt;true&gt;&#13;
+     but: was &lt;false&gt;</failure><system-err>&#13;
+Expected: &lt;true&gt;&#13;
+     but: was &lt;false&gt;&#13;
+com.formulario.StepDefinitions.FormularioStepD.sePuedeObservarElCampoEmailDiligenciadoCorrectamente(FormularioStepD.java:76)&#13;
+✽.se puede observar el campo email diligenciado correctamente(file:///C:/Users/G/IdeaProjects/Formulario/src/test/resources/features/formularioSoft.feature:14)&#13;
+</system-err></testcase><testcase name="diligenciar el campo Barrio del formulario softesting"/><testcase name="diligenciar el campo asunto y mensaje del formulario softesting"/><testcase name="verificar la ortografia del formulario"><failure message="&#13;&#10;Expected: &lt;true&gt;&#13;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">&#13;
+Expected: &lt;true&gt;&#13;
+     but: was &lt;false&gt;</failure><system-err>&#13;
+Expected: &lt;true&gt;&#13;
+     but: was &lt;false&gt;&#13;
+com.formulario.StepDefinitions.FormularioStepD.verificarQueLaOrtografiaDelFormularioSeaCorrecta(FormularioStepD.java:93)&#13;
+✽.verifica que la ortografia del formulario sea correcta(file:///C:/Users/G/IdeaProjects/Formulario/src/test/resources/features/formularioSoft.feature:31)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Diligenciar formulario exitosamente","diligenciar el campo tu nombre del formulario softesting","SUCCESS","2022-10-06T14:22:33.418-05:00[America/Bogota]","0.0","44.48"
+"Diligenciar formulario exitosamente","diligenciar el campo Email del formulario softesting","FAILURE","2022-10-06T14:23:19.55-05:00[America/Bogota]","0.0","13.75"
+"Diligenciar formulario exitosamente","diligenciar el campo Barrio del formulario softesting","SUCCESS","2022-10-06T14:23:34.663-05:00[America/Bogota]","0.0","7.61"
+"Diligenciar formulario exitosamente","diligenciar el campo asunto y mensaje del formulario softesting","SUCCESS","2022-10-06T14:23:43.1-05:00[America/Bogota]","0.0","7.99"
+"Diligenciar formulario exitosamente","verificar la ortografia del formulario","FAILURE","2022-10-06T14:23:52.116-05:00[America/Bogota]","0.0","7.41"

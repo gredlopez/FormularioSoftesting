@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Diligenciar formulario exitosamente","diligenciar el campo Email del formulario softesting","FAILURE","2022-10-06T14:23:19.55-05:00[America/Bogota]","0.0","13.75"
+"Diligenciar formulario exitosamente","verificar la ortografia del formulario","FAILURE","2022-10-06T14:23:52.116-05:00[America/Bogota]","0.0","7.41"
